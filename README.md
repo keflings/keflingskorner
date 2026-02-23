@@ -1,3 +1,3 @@
 # Keflings Korner 
 
-A collection of half-baked ideas and crumbs from 
+A collection of half-baked whims and fancies in no particular order
