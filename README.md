@@ -1,2 +1,3 @@
-# eao939.github.io
-github pages for blog 
+# Keflings Korner 
+
+A collection of half-baked ideas and crumbs from 
